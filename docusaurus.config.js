@@ -8,21 +8,22 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Liaofan\'s 4 lessons ',
-  tagline: 'Dinosaurs are cool',
+  title: '了凡四训',
+  tagline: '命由我作，福自己求',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'http://yuanliaofan.xyz/',
+  url: 'https://yuanliaofan.xyz/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
+
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'Liaofan', // Usually your repo name.
-
+  organizationName: 'liaofanwebsite', // Usually your GitHub org/user name.
+  projectName: 'liaofanyuan.github.io', // Usually your repo name.
+  trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
