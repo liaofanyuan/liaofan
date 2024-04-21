@@ -8,8 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '《了凡四训》',
-  tagline: '命由我做，福自己求',
+  title: '了凡四训',
+  tagline: '命由我做❤️，福自己求！',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
