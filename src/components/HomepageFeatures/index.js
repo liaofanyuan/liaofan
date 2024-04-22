@@ -4,43 +4,50 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: '立命之学',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+      人的命运是可靠自己创造，而不是被命数所束缚
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: ' 改过之法',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+      从小的过失及时改过，那自然便不会犯下大的过错
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: '积善之方',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+      多做善事帮助别人，善事积多了，命运自然也有所改变
       </>
     ),
   },
+  {
+    title: '谦德之效',
+    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    description: (
+      <>
+      与人相处，待人要谦虚，从中学习，自然便有进步。
+      </>
+    ),
+  },
+
 ];
 
 function Feature({Svg, title, description}) {
   return (
     <div className={clsx('col col--4')}>
-      <div className="text--center">
+      {/* <div className="text--center">
         <Svg className={styles.featureSvg} role="img" />
-      </div>
+      </div> */}
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
         <p>{description}</p>
