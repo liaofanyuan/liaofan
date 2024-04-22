@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '了凡四训',
-  tagline: '命由我做❤️，福自己求！',
+  tagline: '务要积德。务要包荒，务要和爱。务要惜精神。从前种种譬如昨日死。从后种种譬如今日生。此义理再生之身也。',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
