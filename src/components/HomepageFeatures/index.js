@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: '立命之学',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    //Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
       人的命运是可靠自己创造，而不是被命数所束缚
@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: ' 改过之法',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    //Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
       从小的过失及时改过，那自然便不会犯下大的过错
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: '积善之方',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    //Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
       多做善事帮助别人，善事积多了，命运自然也有所改变
@@ -32,10 +32,10 @@ const FeatureList = [
   },
   {
     title: '谦德之效',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    //Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-      与人相处，待人要谦虚，从中学习，自然便有进步。
+      举头三尺，决有神明；趋吉避凶，断然由我
       </>
     ),
   },
