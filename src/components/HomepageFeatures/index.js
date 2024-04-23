@@ -8,7 +8,7 @@ const FeatureList = [
     //Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-      人的命运是可靠自己创造，而不是被命数所束缚
+      命由我作，福自己求
       </>
     ),
   },
@@ -17,7 +17,7 @@ const FeatureList = [
     //Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-      从小的过失及时改过，那自然便不会犯下大的过错
+      过有千端，惟心所造；吾心不动，过安从生?
       </>
     ),
   },
@@ -26,7 +26,7 @@ const FeatureList = [
     //Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-      多做善事帮助别人，善事积多了，命运自然也有所改变
+      爱鼠常留饭，怜蛾不点灯
       </>
     ),
   },

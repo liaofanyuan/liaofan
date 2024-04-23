@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '了凡四训',
-  tagline: '务要积德。务要包荒，务要和爱。务要惜精神。从前种种譬如昨日死。从后种种譬如今日生。此义理再生之身也。',
+  tagline: '命由我作，福自己求',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -103,8 +103,8 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: '有声书',
+                href: 'https://xima.tv/1_0cc7Q2?_sonic=0',
               },
               {
                 label: 'Discord',
