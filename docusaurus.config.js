@@ -107,8 +107,8 @@ const config = {
                 href: 'https://xima.tv/1_0cc7Q2?_sonic=0',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: '了凡四训漫画',
+                href: 'https://online.pubhtml5.com/brll/qogs/index.html#p=1',
               },
               {
                 label: 'Twitter',

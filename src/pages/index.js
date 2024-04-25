@@ -32,9 +32,10 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`${siteConfig.title}`}
+      title={'了凡四训'}
+      // title={`${siteConfig.title}`}
       // `Hello from ${siteConfig.title}`
-      description="Description will go into a meta tag in <head />">
+      description="袁了凡，了凡四训 <head />">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
@@ -42,3 +43,6 @@ export default function Home() {
     </Layout>
   );
 }
+
+
+
