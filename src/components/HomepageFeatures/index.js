@@ -8,7 +8,7 @@ const FeatureList = [
     //Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-      命由我作，福自己求
+      凡称祸福自己求之者，乃圣贤之言。若谓祸福惟天所命，则世俗之论矣。
       </>
     ),
   },
