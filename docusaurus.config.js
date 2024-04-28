@@ -100,7 +100,7 @@ const config = {
             ],
           },
           {
-            title: 'Community',
+            title: 'Source',
             items: [
               {
                 label: '有声书',
@@ -110,10 +110,10 @@ const config = {
                 label: '了凡四训漫画',
                 href: 'https://online.pubhtml5.com/brll/qogs/index.html#p=1',
               },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
+              // {
+              //   label: 'Twitter',
+              //   href: 'https://twitter.com/docusaurus',
+              // },
             ],
           },
           // 这是底边栏最后一列
